@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace App\Utils;
+namespace Pafi\Utils;
 
-use ApiPlatform\Core\Bridge\Symfony\Validator\Exception\ValidationException;
+use ApiPlatform\Symfony\Validator\Exception\ValidationException;
 use Symfony\Component\Serializer\Exception\NotNormalizableValueException;
 use Symfony\Component\Serializer\Exception\PartialDenormalizationException;
 use Symfony\Component\Validator\ConstraintViolation;

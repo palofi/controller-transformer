@@ -1,9 +1,9 @@
 <?php declare(strict_types=1);
 
-namespace App\EventSubscriber;
+namespace Pafi\EventSubscriber;
 
-use App\Controller\TransformableControllerInterface;
-use App\Utils\ProcessViolations;
+use Pafi\Controller\TransformableControllerInterface;
+use Pafi\Utils\ProcessViolations;
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
 use Symfony\Component\HttpKernel\Event\ControllerArgumentsEvent;
 use Symfony\Component\HttpKernel\KernelEvents;
