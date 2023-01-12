@@ -1,0 +1,20 @@
+{
+  "name": "pafi/controller-transformer",
+  "description": "Transform request body to DTO",
+  "type": "library",
+  "require": {
+    "php": ">=8.0",
+    "symfony/serializer": "6.3.x-dev",
+    "symfony/validator": "6.3.x-dev",
+    "symfony/event-dispatcher": "6.3.x-dev",
+    "symfony/http-kernel": "6.3.x-dev"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Pavol Fiser",
+      "email": "pavolfiser1@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
