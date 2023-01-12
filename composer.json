@@ -4,10 +4,10 @@
   "type": "library",
   "require": {
     "php": ">=8.0",
-    "symfony/serializer": "6.3.x-dev",
-    "symfony/validator": "6.3.x-dev",
-    "symfony/event-dispatcher": "6.3.x-dev",
-    "symfony/http-kernel": "6.3.x-dev"
+    "symfony/serializer": "v5.4.*",
+    "symfony/validator": "5.4.*",
+    "symfony/event-dispatcher": "5.4.*",
+    "symfony/http-kernel": "5.4.*"
   },
   "license": "proprietary",
   "authors": [
