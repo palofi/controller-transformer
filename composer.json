@@ -8,7 +8,7 @@
     "symfony/validator": "5.4.*",
     "symfony/event-dispatcher": "5.4.*",
     "symfony/http-kernel": "5.4.*",
-    "api-platform/api-pack": "dev-main"
+    "api-platform/core": "2.6.*"
   },
   "license": "proprietary",
   "authors": [
